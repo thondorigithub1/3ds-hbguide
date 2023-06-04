@@ -15,6 +15,7 @@ Before starting the process, we must check if you have CFW.
 ## Find your method
 
 If your version was `11.16.0-49U` then continue with the guide.
+
 If your version was 11.17.0-49U, or any of that variant with a different letter at the end, use SuperSkaterhax (placeholder until made)
 > [Continue](boot9strap)
 
