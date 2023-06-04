@@ -6,6 +6,6 @@
 
 <details>You can buy any SD Card over 8 GB and under 256 GB. The recommended size is 32 GB. For NEW systems you NEED a micro SD card. For any other system a full size or micro with an adapter will work fine.  <summary>What SD card should I use?</summary></details>
 
-!> Before continuing, there is a nearly 0% chance you will brick. If anything happens, it is *Your responsibility.*
+!> Before continuing, there is nearly a 0% chance you will brick your console. If anything happens, it is *Your responsibility.*
 
 > [Continue](getting-started)
