@@ -6,6 +6,9 @@
 [Getting your movable](boot9strap)
 [BannerBomb3](bb3)
 [Finalizing Setup](/finalizing)
+---
+- **Homebrew Apps**
+[hShop](/hshop)
 
 - **Socials**
 
