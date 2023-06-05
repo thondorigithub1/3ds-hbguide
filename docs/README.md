@@ -8,7 +8,7 @@ In this guide you will fully install CFW on your 3DS.
 
 ## What is CFW?
 
-CFW or Custom Firmware allows you to do many things. 
+[CFW](https://3ds.skyybrew.xyz/#/thehiddensecretivejamalpagethatishardtofind) or Custom Firmware allows you to do many things. 
 You can
 
 - Backup your games
