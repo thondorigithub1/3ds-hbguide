@@ -4,7 +4,7 @@
 
 ?> These saves can also be used on Citra, a 3DS emulator.
 
-## [Checkpoint 3DS Download](https://github.com/BernardoGiordano/Checkpoint/releases)
+?> Download Checkpoint From [here](https://github.com/BernardoGiordano/Checkpoint/releases/download/v3.7.4/Checkpoint.cia)
 
 ## Features
 - Allows for the use of cheats on 3DS/DS games. 
