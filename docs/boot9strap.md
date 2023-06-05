@@ -16,7 +16,7 @@
 2. Navigate to your Mii card.
 3. There should be a "Friend Code" field on the top of the screen.
 
-### Actually adding the bot
+### [Actually adding the bot](3ds.skyybrew.xyz/#/thehiddensecretivejamalpagethatishardtofind)
 
 1. Open the [BFM](https://seedminer.hacks.guide/) website
 2. Enter your friend code in the field that says "Your friend code”
