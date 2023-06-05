@@ -9,6 +9,7 @@
 ---
 - **Homebrew Apps**
 [hShop](/hshop)
+[Checkpoint](/checkpoint)
 ---
 - **Socials**
 
