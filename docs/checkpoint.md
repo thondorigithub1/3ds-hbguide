@@ -7,8 +7,9 @@
 ## [Checkpoint 3DS Download](https://github.com/BernardoGiordano/Checkpoint/releases)
 
 ## Features
--Allows for the use of cheats on 3DS/DS games.
--Allows you to backup/restore save data for 3DS/DS games.
+- Allows for the use of cheats on 3DS/DS games. 
+
+- Allows you to backup/restore save data for 3DS/DS games.
 
 
 ## Installation Guide
