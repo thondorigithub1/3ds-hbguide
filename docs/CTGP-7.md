@@ -28,3 +28,13 @@ In order to change you CC to something like say, 345 CC follow these steps.
 4. You will be brought to a keypad where you must input any valid integer from 0-9999.
 5. Finish and confirm changes then load into a race. Enjoy races at 9999 CC!
 
+## Custom Characters
+
+?> This is only locally. If you play online you will be whoever the other person has selected for your base character
+
+In order to choose from some custom characters in CTGP 7 follow these steps.
+
+1. Load in like normal and get to the character select screen.
+2. Press `select`, you will be brought to the character screen.
+3. Change each character to whatever you like, almost every character has a custom one.
+4. Once you're done, relaunch the game and enjoy all your custom characters!
