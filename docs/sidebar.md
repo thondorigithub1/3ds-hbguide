@@ -10,6 +10,7 @@
 - **Homebrew Apps**
 [hShop](/hshop)
 [Checkpoint](/checkpoint)
+[CTGP 7](/CTGP-7)
 ---
 - **Socials**
 
