@@ -30,7 +30,7 @@ Here is a short guide on how you **use** hShop.
 6. From there, it should show you the game title, region and size. Click A.
 7. Your game will start downloading! hShop has slow speeds, so please be patient.
 
-- ### If you'd like to find a **specific** game from hShop, here's what to do:
+## Get a specific game
 
 1. On the bottom screen, there will be a search icon.
 2. Click onto the search icon. Select "search by text".
