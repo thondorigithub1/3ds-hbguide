@@ -75,7 +75,7 @@ the **Target 3DS** (the 3DS you're trying to mod):
     - If the exploit wasn't successful, power off both the **source 3DS** and the **target 3DS**, then start again from the beginning of the kartdlphax section.
 22. Press the X button to inject unSAFE_MODE.
     - If the injection is successful, the screen will turn green, and the **target 3DS** will automatically power off.
-    - If the screen turns red, power off the **target 3DS**, then start again from the beginning of the kartdlphax section. If the issue persists, seek help at the Skyybrew Discord Server.
+    - If the screen turns red, power off the **target 3DS**, then start again from the beginning of the kartdlphax section. If the issue persists, seek help at the [Skyybrew Discord Server](https://discord.gg/cysxUu7J3E).
 
 ## unSAFE_MODE
 1. With the **target 3DS** still powered off, hold the following buttons together: Left Shoulder, Right Shoulder, D-Pad Up, and A.
@@ -88,10 +88,8 @@ the **Target 3DS** (the 3DS you're trying to mod):
 8. On the following menu, navigate to `Connection 1` > `Change Settings` > `Next Page (right arrow)` > `Proxy Settings` > `Detailed Setup`.
 9. If the exploit was successful, your console will have booted into SafeB9SInstaller.
     - If the console freezes on a white screen instead, hold the POWER button until it turns off, then retry this section.
-    - If the console freezes on a red screen, it means you
-
-'re missing the `usm.bin` file from the root of your SD card.
-    - If you encounter a different error, refer to the troubleshooting guide for assistance.
+    - If the console freezes on a red screen, it means you're missing the `usm.bin` file from the root of your SD card.
+    - If you encounter a different error, refer to the [troubleshooting guide](placeholder) for assistance.
 
 ## Installing boot9strap
 1. Follow the on-screen instructions in SafeB9SInstaller.
