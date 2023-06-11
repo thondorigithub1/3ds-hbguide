@@ -14,7 +14,7 @@
 
 1. Open your friends menu. 
 2. Navigate to your Mii card.
-3. There should be a "Friend Code" field on the top of the screen.
+3. There should be a `Friend Code` field on the top of the screen.
 
 ### [Actually adding the bot](3ds.skyybrew.xyz/#/thehiddensecretivejamalpagethatishardtofind)
 
