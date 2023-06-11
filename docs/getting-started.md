@@ -19,5 +19,5 @@ Before starting the process, we must check if you have CFW.
 If your system version is `11.16.0-49U`, kindly continue following the provided guide.
 
 However, if your system version is different, such as `11.17.0-50U` or any variant with a different letter at the end, please make use of SuperSkaterhax (placeholder until made).
-> [Continue](boot9strap)
+> [Continue](seedminer)
 
