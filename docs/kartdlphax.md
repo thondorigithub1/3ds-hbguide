@@ -68,7 +68,7 @@ the **Target 3DS** (the 3DS you're trying to mod):
 15. Ensure that wireless connectivity is enabled on the **target 3DS**.
 16. Open the Download Play application on the **target 3DS** and select "Nintendo 3DS".
 17. Join the group created by the **source 3DS**.
-18. On the **source 3DS**, select "Start" once it has detected the **target 3DS**.
+18. On the **source 3DS**, select `Start` once it has detected the **target 3DS**.
 19. Once multiplayer has loaded on the **target 3DS**, navigate to `Grand Prix` > `50cc` > choose any driver > `Mushroom Cup` > `OK`.
 20. Wait for a while, and a percentage should be displayed on the **source 3DS**.
 21. If the exploit was successful, the **target 3DS** will boot into the 3DS ROP xPloit Injector.
