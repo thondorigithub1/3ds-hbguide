@@ -20,7 +20,7 @@ the **Target 3DS** (the 3DS you're trying to mod):
 ## Button Check (target 3DS)
 1. Power on your **target 3DS** console.
 2. When you see the HOME Menu, press and hold the Left and Right shoulder buttons simultaneously.
-3. The camera applet should appear on the screen.
+    - The camera applet should appear on the screen.
 4. Power off your console.
 
 ## Preparation (source 3DS)
