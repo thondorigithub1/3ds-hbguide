@@ -16,7 +16,7 @@ Before starting the process, we must check if you have CFW.
 
 | System version      | What to do |
 | ----------- | ----------- |
-| 11.17.x      |    [Super-Skaterhax](/placeholder)    |
+| 11.17.x      |    [super-skaterhax](/placeholder)    |
 | 11.16.x | [Seedminer](/seedminer)        |
 | 11.14.x -> 11.15.x | Update your system|
 | 11.4.x -> 11.13.x | [SSloth-Browser](/ssloth-browser)|
