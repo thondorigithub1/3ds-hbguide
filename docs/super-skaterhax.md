@@ -46,7 +46,7 @@
    - This should open the camera applet on your console.
 3. Power off your console.
 
-## Chose an exploit
+## Choose an exploit
 If you were able to open the camera applet in the previous step, it indicates that Safe Mode is likely functioning correctly on your console.
 
 ?> If you were able to successfully open the camera applet, you can proceed to the next step, which is [HBL-USM](hbl-usm).
