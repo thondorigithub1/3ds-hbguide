@@ -1,7 +1,7 @@
 # Seedminer (Mii)
 
 !> This method requires a GPU that is decently powerful (any dedicated graphics card made in the last few years) and the ability to use the command line. If you don't know how to use it or you don't have a decently powerful GPU, you may ask someone to do this method for you at [our Discord server](https://discord.gg/cysxUu7J3E). You will, however need the following information ready:
-  - Your Mii QR Code, uploaded to discord (don't take a screenshot or a photo of the QR code, just send the HNI_XXXX.JPG image only)
+!>  - Your Mii QR Code, uploaded to discord (don't take a screenshot or a photo of the QR code, just send the HNI_XXXX.JPG image only)
   - Your 3DS's ID0 (the 32-character folder inside of `Nintendo 3DS` - check [this troubleshooting guide](placeholder) if you have multiple)
   - Your 3DS model (e.g. New3DS XL, New2DS XL, 2DS, 3DS, 3DS XL, New3DS)
   - Your 3DS's approximate year of manufacturing (could be present behind the frontplate or backplate - If you don't know, just guess the year; It won't be important)
